@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ARF-SHARE</string>
+    <string name="title_activity_main">ARF-SHARE</string>
+    <string name="package_name">arfShare.com</string>
+    <string name="custom_url_scheme">arfShare.com</string>
+</resources>
